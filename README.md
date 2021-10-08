@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 ## Stats
 
-<img width="420" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical"/><img width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8"/>
+<img width="420" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical"/><img width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MattiasEyh"/>
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=MattiasEyh.MattiasEyh)
 
