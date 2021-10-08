@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 ## Stats
 
-<img width="420" src="https%3A%2F%2Fgithub-readme-stats.vercel.app%2Fapi%3Fusername%3DMattiasEyh%26theme%3Dradical%26show_icons%3Dtrue%26hide_border%3Dtrue%26include_all_commits%3Dtrue%26custom_title%3DMy%2520Github%2520Stats"/><img width="350" src="https%3A%2F%2Fgithub-readme-stats.vercel.app%2Fapi%2Ftop-langs%2F%3Fusername%3DMattiasEyh%26layout%3Dcompact%26theme%3Dradical%26hide_border%3Dtrue"/>
+<img width="420" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical"/><img width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8"/>
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=MattiasEyh.MattiasEyh)
 
